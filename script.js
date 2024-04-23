@@ -4,7 +4,7 @@ let paragarph = document.querySelector(".para");
 
 function userNum() {
 
-  let num = Math.round(Math.random() * 9 + 1 );
+  let num = Math.round(Math.random() * 19 + 1 );
 
   console.log(num);
 
