@@ -18,6 +18,13 @@ p{
     margin-top: 50px;
 }
 
+.mt-7{
+    margin-top: 70px;
+}
+
+.playagain-btn{
+    margin-top: 60px;
+}
 
 @media(max-width:768px){
     .fontsize{
